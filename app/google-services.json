@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "357732062378",
+    "project_id": "furnigo-ad354",
+    "storage_bucket": "furnigo-ad354.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357732062378:android:546b57b44261fe6e826cd3",
+        "android_client_info": {
+          "package_name": "com.partitionsoft.furnigo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357732062378-8o3i8vdh41ls90kaioo9lurr061gt4ve.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdRAizHHwTsQjO-TTn3awrIrxfAj-2w54"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357732062378-8o3i8vdh41ls90kaioo9lurr061gt4ve.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
